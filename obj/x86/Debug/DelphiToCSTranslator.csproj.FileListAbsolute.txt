@@ -1,0 +1,5 @@
+E:\Devs\DelphiToCS\obj\x86\Debug\DelphiToCSTranslator.csproj.AssemblyReference.cache
+E:\Devs\DelphiToCS\obj\x86\Debug\Translator.ReferenceStruct.resources
+E:\Devs\DelphiToCS\obj\x86\Debug\DelphiToCSTranslator.Properties.Resources.resources
+E:\Devs\DelphiToCS\obj\x86\Debug\DelphiToCSTranslator.csproj.GenerateResource.cache
+E:\Devs\DelphiToCS\obj\x86\Debug\DelphiToCSTranslator.csproj.CoreCompileInputs.cache

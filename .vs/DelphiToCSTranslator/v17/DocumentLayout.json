@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Devs\\DelphiToCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDE45-CC4E-4D9C-A6AD-8B46CEE716B5}|DelphiToCSTranslator.csproj|e:\\devs\\delphitocs\\translatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDE45-CC4E-4D9C-A6AD-8B46CEE716B5}|DelphiToCSTranslator.csproj|solutionrelative:translatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6EDE45-CC4E-4D9C-A6AD-8B46CEE716B5}|DelphiToCSTranslator.csproj|e:\\devs\\delphitocs\\translate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6EDE45-CC4E-4D9C-A6AD-8B46CEE716B5}|DelphiToCSTranslator.csproj|solutionrelative:translate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Translate.cs",
+              "DocumentMoniker": "E:\\Devs\\DelphiToCS\\Translate.cs",
+              "RelativeDocumentMoniker": "Translate.cs",
+              "ToolTip": "E:\\Devs\\DelphiToCS\\Translate.cs",
+              "RelativeToolTip": "Translate.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:24:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TranslateTest.cs",
+              "DocumentMoniker": "E:\\Devs\\DelphiToCS\\TranslateTest.cs",
+              "RelativeDocumentMoniker": "TranslateTest.cs",
+              "ToolTip": "E:\\Devs\\DelphiToCS\\TranslateTest.cs",
+              "RelativeToolTip": "TranslateTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:24:33.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
